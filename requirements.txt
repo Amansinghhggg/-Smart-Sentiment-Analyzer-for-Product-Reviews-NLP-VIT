@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy
+scikit-learn
+nltk
+matplotlib
+joblib
+streamlit
+pytest

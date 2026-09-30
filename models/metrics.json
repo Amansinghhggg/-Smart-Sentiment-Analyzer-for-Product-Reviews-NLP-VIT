@@ -1,0 +1,6 @@
+{
+  "model": "LogisticRegression",
+  "dev_macro_f1": 0.9881535947712418,
+  "test_accuracy": 0.993993993993994,
+  "test_macro_f1": 0.9940586419753087
+}
